@@ -5,8 +5,8 @@ Ohjelmoinnin perusteiden harjoitus 5
 
 Täydennä tähän:
 
-- Nimi
-- Ryhmä
+- Petri Numminen
+- Opeopiskelija
 
 ## Projektin kuvaus
 
